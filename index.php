@@ -13,7 +13,4 @@ class A {
 }
 $obj = new A();
 echo $obj->call();
-// start adeed
-sfdsfsf
-// end added
 ?>
