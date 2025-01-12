@@ -17,4 +17,6 @@ echo $obj->call();
 // start adeed
 sfdsfsf
 // end added
+// added in index
+///index revert
 ?>
