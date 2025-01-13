@@ -18,4 +18,3 @@ echo $obj->call();
 sfdsfsf
 // end added
 ?>
-aaaaaaaa
